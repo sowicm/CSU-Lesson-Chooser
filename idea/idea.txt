@@ -1,0 +1,140 @@
+
+http://222.247.53.89
+http://222.247.53.89/_data/index_login.aspx
+http://222.247.53.89/wsxk/stu_xszx.aspx
+
+  为什么卡的时候ping仍然很快
+
+【分布式、高并发】
+
+【·自动过滤冲突课表和已满课表·】
+
+     【★ 外网比内网快？ ★】
+
+http://csujwc.its.csu.edu.cn/wsxk/stu_xszx.aspx
+http://csujwc.its.csu.edu.cn/wsxk/stu_zxjg.aspx
+
+http://csujwc.its.csu.edu.cn/sys/ValidateCode.aspx
+
+
+[教务系统]
+
+     登录页面和登陆后页面的  title
+    【★Lesson Tool★】
+
+
+【验证码测试】
+
+  1.ValidateCode.aspx
+  2.成功后继续提交登录请求会咋样？
+
+
+
+tool:
+用快捷键决定剪贴板的内容（固定的，和群组的）
+
+http://csujwc1.its.csu.edu.cn/wsxk/stu_xszx.aspx
+
+http://csujwc1.its.csu.edu.cn/wsxk/stu_xszx_rpt.aspx
+http://csujwc1.its.csu.edu.cn/_data/index_LOGIN.aspx
+http://csujwc1.its.csu.edu.cn/sys/ValidateCode.aspx
+登录：
+http://csujwc7.its.csu.edu.cn/_data/index_login.aspx
+http://csujwc7.its.csu.edu.cn/wsxk/stu_xszx.aspx    （用高速，可以打开很多窗口）
+http://csujwc7.its.csu.edu.cn/wsxk/stu_zxjg.aspx.aspx
+javascript:window.frames["frmRpt"].location.Reload();
+
+function showMenu_D03(){var sTree=''; sTree+=addLinkBlock('选课管理规定;../wsxk/index_right.aspx;');
+ sTree+=addLinkBlock('正选;../wsxk/stu_xszx.aspx;');
+ sTree+=addLinkBlock('正选结果;../wsxk/stu_zxjg.aspx;');
+ sTree+=addLinkBlock('补选;../wsxk/stu_btx.aspx;');
+ sTree+=addLinkBlock('退选;../wsxk/stu_txjg.aspx;');
+ sTree+=addLinkBlock('重修选;../wsxk/stu_xscx.aspx;');
+ sTree+=addLinkBlock('重修选结果;../wsxk/stu_cxjg.aspx;');
+ sTree+=addLinkBlock('被取消课程;../wsxk/stu_bqxkc.aspx;');
+sTree+=addLinkBlock('选实践环节;../wsxk/stu_xhj.aspx;');
+ return(sTree);}
+
+
+
+
+function showMenu_D06(){var sTree=''; sTree+=addLinkBlock('成绩管理规定;../xscj/a_cjgd.aspx;');
+ sTree+=addLinkBlock('申请免修;../xscj/Stu_xsmxsq.aspx;');
+ sTree+=addLinkBlock('获准免修<br>课程/环节;../xscj/Stu_mxkc.aspx;');
+ sTree+=addLinkBlock('申请重修;../xscj/Stu_xscxsq.aspx;');
+ sTree+=addLinkBlock('获准重修<br>课程/环节;../xscj/Stu_cxkc.aspx;');
+ sTree+=addLinkBlock('查看成绩认定记录;../xscj/c_ydcjrdjl.aspx;');
+ sTree+=addLinkBlock('查看成绩;../xscj/Stu_MyScore.aspx;');
+ sTree+=addLinkBlock('成绩分布;../xscj/Stu_cjfb.aspx;');
+sTree+=addLinkBlock('查看等级考试成绩;../xscj/Stu_djkscj.aspx;');
+ return(sTree);}
+
+http://222.247.53.89
+http://222.247.53.89/_data/index_login.aspx
+http://222.247.53.89/wsxk/stu_xszx.aspx
+
+
+【 ping 起来很快啊，平均10ms 】
+
+【分布式、高并发】
+
+【服务器防刷新】
+
+【·自动过滤冲突课表和已满课表·】
+
+     【★ 外网比内网快？ ★】
+
+http://csujwc.its.csu.edu.cn/wsxk/stu_xszx.aspx
+http://csujwc.its.csu.edu.cn/wsxk/stu_zxjg.aspx
+
+http://csujwc.its.csu.edu.cn/sys/ValidateCode.aspx
+
+
+[教务系统]
+
+
+【验证码测试】
+
+  1.ValidateCode.aspx
+  2.成功后继续提交登录请求会咋样？
+
+
+
+tool:
+用快捷键决定剪贴板的内容（固定的，和群组的）
+
+http://csujwc1.its.csu.edu.cn/wsxk/stu_xszx.aspx
+
+http://csujwc1.its.csu.edu.cn/wsxk/stu_xszx_rpt.aspx
+http://csujwc1.its.csu.edu.cn/_data/index_LOGIN.aspx
+http://csujwc1.its.csu.edu.cn/sys/ValidateCode.aspx
+登录：
+http://csujwc7.its.csu.edu.cn/_data/index_login.aspx
+http://csujwc7.its.csu.edu.cn/wsxk/stu_xszx.aspx    （用高速，可以打开很多窗口）
+http://csujwc7.its.csu.edu.cn/wsxk/stu_zxjg.aspx.aspx
+javascript:window.frames["frmRpt"].location.Reload();
+
+function showMenu_D03(){var sTree=''; sTree+=addLinkBlock('选课管理规定;../wsxk/index_right.aspx;');
+ sTree+=addLinkBlock('正选;../wsxk/stu_xszx.aspx;');
+ sTree+=addLinkBlock('正选结果;../wsxk/stu_zxjg.aspx;');
+ sTree+=addLinkBlock('补选;../wsxk/stu_btx.aspx;');
+ sTree+=addLinkBlock('退选;../wsxk/stu_txjg.aspx;');
+ sTree+=addLinkBlock('重修选;../wsxk/stu_xscx.aspx;');
+ sTree+=addLinkBlock('重修选结果;../wsxk/stu_cxjg.aspx;');
+ sTree+=addLinkBlock('被取消课程;../wsxk/stu_bqxkc.aspx;');
+sTree+=addLinkBlock('选实践环节;../wsxk/stu_xhj.aspx;');
+ return(sTree);}
+
+
+
+
+function showMenu_D06(){var sTree=''; sTree+=addLinkBlock('成绩管理规定;../xscj/a_cjgd.aspx;');
+ sTree+=addLinkBlock('申请免修;../xscj/Stu_xsmxsq.aspx;');
+ sTree+=addLinkBlock('获准免修<br>课程/环节;../xscj/Stu_mxkc.aspx;');
+ sTree+=addLinkBlock('申请重修;../xscj/Stu_xscxsq.aspx;');
+ sTree+=addLinkBlock('获准重修<br>课程/环节;../xscj/Stu_cxkc.aspx;');
+ sTree+=addLinkBlock('查看成绩认定记录;../xscj/c_ydcjrdjl.aspx;');
+ sTree+=addLinkBlock('查看成绩;../xscj/Stu_MyScore.aspx;');
+ sTree+=addLinkBlock('成绩分布;../xscj/Stu_cjfb.aspx;');
+sTree+=addLinkBlock('查看等级考试成绩;../xscj/Stu_djkscj.aspx;');
+ return(sTree);}
